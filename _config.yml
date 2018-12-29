@@ -17,54 +17,19 @@
 twitter_username: jekyllrb
 github_username:  jekyll
 repository:
-
+encoding: UTF-8
 # Build settings
 
 #theme: jekyll-theme-midnight
 
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-title: GitHub Pages and Jekyll (106)
-description: > 
-   There is a Place --- 
-   Lenny Macca (1963) <br />
-   Where I can go...
-   When I feel low...
-   When I feel blue...<br />
-   And it's my mind...
-   And there's no time...
-   When I'm alone.
 
-author: Cicak Bin Kadal
+title: JEKYLLLLLLLLLLLLLLLLL
+description: > 
+  WKWKKWWKKWKW
+
+author: nyem
 # theme: jekyll-theme-midnight
 # github: [metadata]
 
-# CAN CHANGE
-# encoding: UTF-8
-# kramdown:
-#   input: GFM
-#   hard_wrap: false
-# future: true
-# jailed: false
-# gfm_quirks: paragraph_end
-# CAN NOT CHANGE
-# lsi: false
-# safe: true
-# source: [your repo's top level directory]
-# incremental: false
-# highlighter: rouge
-# gist:
-#   noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
+
