@@ -13,22 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: jekyllrb
 github_username:  jekyll
+repository:
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+
+#theme: jekyll-theme-midnight
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +34,37 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+title: GitHub Pages and Jekyll (106)
+description: > 
+   There is a Place --- 
+   Lenny Macca (1963) <br />
+   Where I can go...
+   When I feel low...
+   When I feel blue...<br />
+   And it's my mind...
+   And there's no time...
+   When I'm alone.
+
+author: Cicak Bin Kadal
+# theme: jekyll-theme-midnight
+# github: [metadata]
+
+# CAN CHANGE
+# encoding: UTF-8
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+# future: true
+# jailed: false
+# gfm_quirks: paragraph_end
+# CAN NOT CHANGE
+# lsi: false
+# safe: true
+# source: [your repo's top level directory]
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
