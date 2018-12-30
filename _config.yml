@@ -32,4 +32,6 @@ author: nyem
 # theme: jekyll-theme-midnight
 # github: [metadata]
 
-
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
